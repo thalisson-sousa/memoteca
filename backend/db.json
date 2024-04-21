@@ -1,0 +1,46 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor'",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Quero Dormir",
+      "autoria": "Thalisson",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Quero ir embora",
+      "autoria": "Thalisson",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Tenho que estudar",
+      "autoria": "Thalisson",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "",
+      "autoria": "",
+      "modelo": "modelo2",
+      "id": 7
+    }
+  ]
+}
